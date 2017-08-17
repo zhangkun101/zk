@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+.head{
+	padding: 16px 0 13px 0;
+	height: 24px;
+	line-height: 24px;
+}
+.caidan{
+	display: inline-block;
+	height: 20px;
+	width: 22px;
+	background: url(../img/phcaidan.jpg) no-repeat;
+	margin-right: 20px;
+}
+.fdj{
+	width: 17px;
+	height: 20px;
+	display: inline-block;
+	background: url(../img/phfdj.jpg) no-repeat;
+}
+
+.nav li{ height:40px; width:100%; background-color:#06F; margin-bottom:1px;}
+.nav li a{height:40px; font-size:16px; color:#FFF; padding-left:12px;}
+.banner img{ width:100%;}
+.p{ width:100%; height:141px; background-color:#06F;}
+.p p{ font-size:20px; color:#FFF; padding:25px 40px;}
+.yi img{ width:100%;}
+.yi p{ margin-top:10px; margin-bottom:4px;}
+
+.tu ul{ margin-top:60px;}
+.tu li{ float:left; width:33%; line-height:142px;}
+.liao{ display:none;}
+.guan{ background-color:#1570A5; width:100%; height:506px;}
+.zhu{ background-color:#115E8A; margin:24px 6px; height:312px;}
+.zhu p{ padding:30px; font-size:18px; color: #FEFFFD; line-height:26px;}
+.zhu img{ float:left; padding:26px 26px 8px 26px; line-height:26px;}
+.zhu p span{ font-size:26px; font-weight:bold;}
+.wei h2{ color:#FFF; font-size:36px; font-weight:bold; line-height:64px; margin-left:13px;}
+.wei h6{ display:none;}
+.wei h5{ margin-left:13px; display:block;}
+.wei h5 a{ font-size:16px; color:#FFF; line-height:34px;}
+
+.qi h3{ margin-top:16px; margin-bottom:12px; font-size:18px; margin-left:13px;}
+.qi li{ line-height:38px;}
+.qi li a{ font-size:24px; padding-left:12px; color:#000; }
+.qi li a img{position: relative; left:0; top:15px; margin-right:12px; }
+.xia h3{ color:#000; line-height:48px; font-size:18px; margin-top:22px; margin-left:13px;}
+.xia li{ line-height:24px;list-style: none; margin-left:13px;}
+.xia li a{ color:#1470A3; font-size:14px;}
+.re h3{color:#000; line-height:48px; font-size:18px; margin-top:22px; margin-left:13px;}
+.re li a{line-height:24px;list-style: none; margin-left:13px; color:#1470A3;}
+.re li{ line-height:24px;list-style: none; margin-left:13px;}
+.zhi{ display:none;}
+.yu{ display:none;}
+
+
+				
+				
+				
+.do h4{ color:#686868; font-size:16px; line-height:56px; margin-left:13px;}
+.do p{ font-size:14px; color:#000;margin-left:13px; line-height:26px;}
+.do p a{ margin:0 12px; color:#1670A2; line-height:26px;}
+.do span{ margin-left:13px;}
+
+.gWidth{
+	padding-left: 5px;
+	padding-right: 7px;
+}

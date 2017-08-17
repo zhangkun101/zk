@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+.text{
+
+	width: 380px;
+
+	
+}
+.banner{ position:relative;}
+.p{ width:314px; height:210px; position:absolute; left:50%; margin-left:-470px; top:22px;}
+.p p{ font-size:20px; color: #FFF; font-size:20px;}
+.ul li{ float:left; width:30%; margin:18px;}
+
+.liaolf li{ float:none;}
+.liaolf{ float:left; width:244px;}
+.liaori{ float:left;}
+.liaori_er{ width:232px; height:190px;}
+.san li{ float:left; margin:12px}
+.liaori_er a{ font-size:14px; color:#1570A6; margin-left:0;}
+.liaobot ul{ float: left; width:242px;}
+.guan{ width:100%; margin-top:70px;}
+.wei{ float:left; margin:30px 20px;}
+.zhu{ width:719px; height:224px; float:right; margin:20px;}
+.guan{ height:273px;}
+.wei h5{ margin-left:13px; display:block; }
+.wei h2{line-height:42px;}
+.wei h6{ display:none;}
+.xia{ float:left;}
+.zhi{ float:left; margin-right:100px; display:inline-block;}
+.yu{ float:left;}
+.re{ float:left;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gWidth{
+	width: 968px;
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}

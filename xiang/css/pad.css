@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+.headrt{
+	display: none;
+}
+.text{
+	border:1px solid black;
+	width: 215px;
+	height: 24px;
+	position: relative;
+	padding: 0 26px 0 10px;
+	line-height: 24px;
+}
+.text input{
+	width: 100%;
+	height: 100%;
+	line-height: 24px;
+}
+.text span{
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background: url(../img/pdfdj.jpg) no-repeat;
+	position: absolute;
+	right:5px; top:5px;
+}
+.nav li{ display:inline;
+		 float:left;
+		 width:60px;
+		 margin-right:2px;background-color: #FFF;
+		 }
+.nav li a{ color:#000; font-size:14px; }
+.p{ height:120px; width:100%;background-color:#06F;}
+
+.p p{ font-size:20px; color: #FFF;}
+.ul li{ float:left; width:31%; margin:1%;}
+.tu{ display:none;}
+.liao{ display:block;}
+.liaolf h3{ font-size:30px; font-weight:normal; margin-left:14px;}
+.liaolf li{ float:left; margin:24px 12px;}
+.liaolf a{ color:#1570A6;}
+.liaolf{ float:left; width:100%;}
+.liaori{ float:left;}
+.liaori a{ line-height:30px; margin-left:14px; font-size:14px; color:#1A1A1A;}
+.liaori_er{ margin:12px;}
+.liaori_er a{ font-size:14px; color:#1570A6;}
+
+.liaobot h3{ margin:68px 0 22px 0; font-size:26px; color:#000; margin-left:14px;}
+.liaobot li a{ font-size:13px; color:#1570A6;}
+
+.guan{ width:100%; margin-top:70px; height:323px;}
+.zhu{ height:198px;}
+.wei h2{ font-size:24px;line-height:8px; margin-left:13px;}
+.wei h6{ display:inline-block;}
+.wei h5{ display:none;}
+.wei h6 a{ width:100px; margin-left:13px;font-size:16px; color:#FFF; line-height:80px; margin-top:22px;}
+
+
+.qi{ float:left; margin-right:160px; padding-bottom:240px;}
+.xia{ float:right; margin-right:34px;}
+.re{ float: left;}
+.zhi{ display: block; float:right;}
+.yu{ display: block; float:right;margin-right:160px;}
+.zhi h3{ color:#000; line-height:48px; font-size:18px; margin-top:22px; margin-left:13px;}
+.zhi li{ line-height:24px;list-style: none; margin-left:13px;}
+.zhi li a{ color:#1470A3; font-size:14px;}
+.yu h3{ color:#000; line-height:48px; font-size:18px; margin-top:22px; margin-left:13px;}
+.yu li{ line-height:24px;list-style: none; margin-left:13px;}
+.yu li a{ color:#1470A3; font-size:14px;}
+
+
+
+
+
+
+
+.gWidth{
+	padding-left: 8px;
+	padding-right: 4px;
+}
